@@ -1,6 +1,6 @@
 [![Image from Gyazo](https://i.gyazo.com/8b03ce3fea2ef1d9aa36c776c3544390.png)](https://gyazo.com/8b03ce3fea2ef1d9aa36c776c3544390)
 
-## 👋 Hi there, I'm Wes
+## 👋 Hi there, I'm ウェス (Wes)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BB51F7&width=435&lines=pixel+pusher.;code+crafter.;constantly+curious.)](https://git.io/typing-svg)
 
 I create digital tools for calm, clarity and focus.
@@ -9,7 +9,7 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 
 <br>
 
-[![Rodrigo's github activity graph](https://github-act-graph.rodriaum.com/graph?username=renimaksew&theme=shadcn-dark)](https://github.com/rodriaum/github-readme-activity-graph)
+[![Rodrigo's github activity graph](https://github-act-graph.rodriaum.com/graph?username=itswes&theme=shadcn-dark)](https://github.com/rodriaum/github-readme-activity-graph)
 
 #
 ### 🥞 stack
