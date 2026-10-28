@@ -9,7 +9,7 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 
 <br>
 
-[![Rodrigo's github activity graph](https://github-act-graph.rodriaum.com/graph?username=itswes&theme=shadcn-dark)](https://github.com/rodriaum/github-readme-activity-graph)
+[![Rodrigo's github activity graph](https://github-act-graph.rodriaum.com/graph?username=itswesu&theme=shadcn-dark)](https://github.com/rodriaum/github-readme-activity-graph)
 
 #
 ### 🥞 stack
