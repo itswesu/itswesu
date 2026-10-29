@@ -23,6 +23,11 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 #
 ### 📝 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Human &amp; AI Development](https://xn--gckc8c.com/projects/cryptodb/)
+- [Neovim + LazVim](https://xn--gckc8c.com/journal/neovim/)
+- [EDC](https://xn--gckc8c.com/posts/edc/)
+- [Now](https://xn--gckc8c.com/now/)
+- [ALL GET OUT](https://xn--gckc8c.com/projects/ago/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
